@@ -6,5 +6,7 @@ Jailbreaks and Jailbreak tweaks have always been my a large intrest of mine, so 
 # List Of Things To Do!!
 - [ ] Finish settign up repo and all the files
 - [ ] Link repo page to main Website for C4M3R0N
-- [ ] Finish designing the main website 
+- [ ] Finish designing the main website
+- [ ] Finish designing the business part of the website 
+- [ ]  
 - [ ] Learn more about objective-c
