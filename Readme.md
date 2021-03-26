@@ -8,5 +8,15 @@ Jailbreaks and Jailbreak tweaks have always been my a large intrest of mine, so 
 - [ ] Link repo page to main Website for C4M3R0N
 - [ ] Finish designing the main website
 - [ ] Finish designing the business part of the website 
-- [ ]  
-- [ ] Learn more about objective-c
+- [ ] Master Objective-c 
+- [ ] Master Thoes
+- [ ] Master Tweak Devolopment 
+- [ ] Learn the Engraving Business 
+- [ ] Setup and Learn the Decal Business
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+- [ ] 
+- [ ] 
+- [ ]
