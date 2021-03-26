@@ -4,4 +4,7 @@ I am learning ios tweak devolopment, I have dabbled into html,css,js, some swift
 Jailbreaks and Jailbreak tweaks have always been my a large intrest of mine, so i am going make an attempt to join the jailbreak community as a devoloper.
 
 # List Of Things To Do!!
- ([])
+- [ ] Finish settign up repo and all the files
+- [ ] Link repo page to main Website for C4M3R0N
+- [ ] Finish designing the main website 
+- [ ] Learn more about objective-c
