@@ -4,6 +4,6 @@ I am learning ios tweak devolopment, I have dabbled into html,css,js, some swift
 Jailbreaks and Jailbreak tweaks have always been my a large intrest of mine, so i am going make an attempt to join the jailbreak community as a devoloper.
 
 # List Of Things To Do!!
-=========================
--[]
--[]
+
+-[x]
+-[ ]
