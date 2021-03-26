@@ -1,14 +1,14 @@
-Package: 
-Name: 
-Version: 
-Architecture: 
-Description: 
-Maintainer: 
-Author: 
-Section: 
+Package: com.example.package
+Name: Test Package
+Version: 0.0.2-2+debug
+Architecture: iphoneos-arm
+Description: this is a test package 
+Maintainer: hitman_4u@hotmail.com
+Author: c4m3r0n
+Section: Tweak
 Depends: 
-Filename: 
-Size: 
+Filename: /debs/com.mdausch.exampletweak_0.0.2-2+debug_iphoneos-arm.deb
+Size: ....
 MD5sum: 
 SHA1: 
 SHA256: 
